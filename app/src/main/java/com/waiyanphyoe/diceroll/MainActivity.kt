@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         val imgDice: ImageView = findViewById(R.id.imgDice)
         val btnRoll: Button = findViewById(R.id.btnRoll)
+
         txtTotalPoint = findViewById(R.id.totalPoint)
         edtBetAmount = findViewById(R.id.betAmount)
 
