@@ -62,7 +62,7 @@
         android:textSize="30dp"
         android:inputType="number"
         android:textStyle="bold"
-        android:hint="Enter Your Bet Amount"
+        android:hint="Enter Your Amount"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@id/imgDice"
